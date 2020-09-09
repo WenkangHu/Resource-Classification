@@ -11,3 +11,8 @@
 4. 单独下载之前无法下载的包的wheel，用pip离线安装
 
 5. 单独安装其他缺失的包
+
+6. 好用的镜像源：
+
+   - -i https://pypi.douban.com/simple
+   - 
