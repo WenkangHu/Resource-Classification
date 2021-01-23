@@ -16,3 +16,4 @@
 
    - -i https://pypi.douban.com/simple
    - 
+7. jupyter 切换环境：https://www.cnblogs.com/kongweisi/p/11676453.html
